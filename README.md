@@ -3,7 +3,9 @@
 ## Commonly used acronyms
 
 UTLA: Upper tier local authority 
+
 LTLA: Lower tier local authority 
+
 LAD: Local administrative district
 
 
