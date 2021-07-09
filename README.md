@@ -1,4 +1,5 @@
 # B.1.1.7_spatial_analysis_UK
+[![DOI](https://zenodo.org/badge/384450241.svg)](https://zenodo.org/badge/latestdoi/384450241)
 
 ## Commonly used acronyms
 
